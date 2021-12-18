@@ -1,0 +1,8 @@
+print('Olá mundo!')
+print(7+4)
+print('7'+'4')
+print('Olá', 5)
+nome=input('Diga seu nome: ')
+idade=input('Agora sua idade: ')
+peso=input('E por fim, seu peso: ')
+print(nome, idade, peso)
