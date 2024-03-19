@@ -1,5 +1,4 @@
-
-* Selectors
+# Selectors
 ```css
 * {
   margin: 0;
